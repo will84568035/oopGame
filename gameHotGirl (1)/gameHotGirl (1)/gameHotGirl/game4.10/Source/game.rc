@@ -1,0 +1,1666 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文 (繁體，台灣) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHT)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_TRADITIONAL
+#pragma code_page(950)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif\r\n"
+    "#include ""res\\game.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#include ""afxprint.rc""       // printing/print preview resources\r\n"
+    "#endif\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_CONTINUE            BITMAP                  "..\\res\\continue.bmp"
+
+IDB_HELP                BITMAP                  "..\\res\\help.bmp"
+
+IDB_LOADING             BITMAP                  "..\\res\\loading.bmp"
+
+IDB_WRHOTGIRL1          BITMAP                  "..\\RES\\walkright1.bmp"
+
+IDB_WRHOTGIRL2          BITMAP                  "..\\RES\\walkright2.bmp"
+
+IDB_WRHOTGIRL3          BITMAP                  "..\\RES\\walkright3.bmp"
+
+IDB_WRHOTGIRL4          BITMAP                  "..\\RES\\walkright4.bmp"
+
+IDB_WRLUSNAKEBOY1       BITMAP                  "..\\RES\\WRluSnakeBoy1.bmp"
+
+IDB_WRLUSNAKEBOY3       BITMAP                  "..\\RES\\WRluSnakeBoy3.bmp"
+
+IDB_WLLUSNAKEBOY1       BITMAP                  "..\\RES\\WLluSnakeBoy1.bmp"
+
+IDB_WLLUSNAKEBOY2       BITMAP                  "..\\RES\\WLluSnakeBoy2.bmp"
+
+IDB_WLLUSNAKEBOY3       BITMAP                  "..\\RES\\WLluSnakeBoy3.bmp"
+
+IDB_WLLUSNAKEBOY4       BITMAP                  "..\\RES\\WLluSnakeBoy4.bmp"
+
+IDB_WRLUSNAKEBOY2       BITMAP                  "..\\RES\\WRluSnakeBoy2.bmp"
+
+IDB_WRLUSNAKEBOY4       BITMAP                  "..\\RES\\WRluSnakeBoy4.bmp"
+
+IDB_WLHOTGIRL2          BITMAP                  "..\\RES\\walkleft2.bmp"
+
+IDB_DLHOTGIRL           BITMAP                  "..\\RES\\Lhotgirlbottomattack.bmp"
+
+IDB_ULHOTGIRL           BITMAP                  "..\\RES\\Lhotgirltopattack.bmp"
+
+IDB_DRHOTGIRL           BITMAP                  "..\\RES\\Rhotgirlbottomattack.bmp"
+
+IDB_URHOTGIRL           BITMAP                  "..\\RES\\Rhotgirltopattack.bmp"
+
+IDB_LOVE                BITMAP                  "..\\RES\\love.bmp"
+
+IDB_LATTACKEDLUSNAKE1   BITMAP                  "..\\RES\\LAttackedLuSnake1.bmp"
+
+IDB_LATTACKEDLUSNAKE2   BITMAP                  "..\\RES\\LAttackedLuSnake2.bmp"
+
+IDB_LATTACKEDLUSNAKE3   BITMAP                  "..\\RES\\LAttackedLuSnake3.bmp"
+
+IDB_LATTACKEDLUSNAKE4   BITMAP                  "..\\RES\\LAttackedLuSnake4.bmp"
+
+IDB_RATTACKEDLUSNAKE1   BITMAP                  "..\\RES\\RAttackedLuSnake1.bmp"
+
+IDB_RATTACKEDLUSNAKE2   BITMAP                  "..\\RES\\RAttackedLuSnake2.bmp"
+
+IDB_RATTACKEDLUSNAKE3   BITMAP                  "..\\RES\\RAttackedLuSnake3.bmp"
+
+IDB_RATTACKEDLUSNAKE4   BITMAP                  "..\\RES\\RAttackedLuSnake4.bmp"
+
+IDB_LOVE1               BITMAP                  "..\\res\\love1.bmp"
+
+IDB_HEART1              BITMAP                  "..\\RES\\heart1.bmp"
+
+IDB_HEART2              BITMAP                  "..\\RES\\heart2.bmp"
+
+IDB_HEART3              BITMAP                  "..\\RES\\heart3.bmp"
+
+IDB_HEART4              BITMAP                  "..\\RES\\heart4.bmp"
+
+IDB_HEART5              BITMAP                  "..\\RES\\heart5.bmp"
+
+IDB_HEART6              BITMAP                  "..\\RES\\heart6.bmp"
+
+IDB_HEART7              BITMAP                  "..\\RES\\heart7.bmp"
+
+IDB_HEART8              BITMAP                  "..\\RES\\heart8.bmp"
+
+IDB_HEART9              BITMAP                  "..\\RES\\heart9.bmp"
+
+IDB_HEART10             BITMAP                  "..\\RES\\heart10.bmp"
+
+IDB_HEART11             BITMAP                  "..\\RES\\heart11.bmp"
+
+IDB_HEART12             BITMAP                  "..\\RES\\heart12.bmp"
+
+IDB_LToolMan1           BITMAP                  "..\\RES\\LToolMan1.bmp"
+
+IDB_LToolMan2           BITMAP                  "..\\RES\\LToolMan2.bmp"
+
+IDB_LToolMan3           BITMAP                  "..\\RES\\LToolMan3.bmp"
+
+IDB_LToolMan4           BITMAP                  "..\\RES\\LToolMan4.bmp"
+
+IDB_RToolMan1           BITMAP                  "..\\RES\\RToolMan1.bmp"
+
+IDB_RToolMan2           BITMAP                  "..\\RES\\RToolMan2.bmp"
+
+IDB_RToolMan3           BITMAP                  "..\\RES\\RToolMan3.bmp"
+
+IDB_RToolMan4           BITMAP                  "..\\RES\\RToolMan4.bmp"
+
+IDB_HEART13             BITMAP                  "..\\RES\\heart13.bmp"
+
+IDB_NUMBER0             BITMAP                  "..\\RES\\number0.bmp"
+
+IDB_NUMBER1             BITMAP                  "..\\RES\\number1.bmp"
+
+IDB_NUMBER2             BITMAP                  "..\\RES\\number2.bmp"
+
+IDB_NUMBER3             BITMAP                  "..\\RES\\number3.bmp"
+
+IDB_NUMBER4             BITMAP                  "..\\RES\\number4.bmp"
+
+IDB_NUMBER5             BITMAP                  "..\\RES\\number5.bmp"
+
+IDB_NUMBER6             BITMAP                  "..\\RES\\number6.bmp"
+
+IDB_NUMBER7             BITMAP                  "..\\RES\\number7.bmp"
+
+IDB_NUMBER8             BITMAP                  "..\\RES\\number8.bmp"
+
+IDB_NUMBER9             BITMAP                  "..\\RES\\number9.bmp"
+
+IDB_WLBITCH1            BITMAP                  "..\\RES\\WLBITCH1.bmp"
+
+IDB_WLBITCH2            BITMAP                  "..\\RES\\WLBITCH2.bmp"
+
+IDB_WLBITCH3            BITMAP                  "..\\RES\\WLBITCH3.bmp"
+
+IDB_WLBITCH4            BITMAP                  "..\\RES\\wlBITCH4.bmp"
+
+IDB_WRBITCH1            BITMAP                  "..\\RES\\WRBITCH1.bmp"
+
+IDB_WRBITCH2            BITMAP                  "..\\RES\\WRBITCH2.bmp"
+
+IDB_WRBITCH3            BITMAP                  "..\\RES\\WRBITCH3.bmp"
+
+IDB_WRBITCH4            BITMAP                  "..\\RES\\WRBITCH4.bmp"
+
+IDB_RNOTICEBITCH1       BITMAP                  "..\\RES\\RFrightenedBitch1.bmp"
+
+IDB_RNOTICEBITCH2       BITMAP                  "..\\RES\\RFrightenedBitch2.bmp"
+
+IDB_RNOTICEBITCH3       BITMAP                  "..\\RES\\RFrightenedBitch3.bmp"
+
+IDB_RNOTICEBITCH4       BITMAP                  "..\\RES\\RFrightenedBitch4.bmp"
+
+IDB_RNOTICEBITCH5       BITMAP                  "..\\RES\\RFrightenedBitch5.bmp"
+
+IDB_LNOTICEBITCH1       BITMAP                  "..\\RES\\LFrightenedBitch1.bmp"
+
+IDB_LNOTICEBITCH2       BITMAP                  "..\\RES\\LFrightenedBitch2.bmp"
+
+IDB_LNOTICEBITCH3       BITMAP                  "..\\RES\\LFrightenedBitch3.bmp"
+
+IDB_LNOTICEBITCH4       BITMAP                  "..\\RES\\LFrightenedBitch4.bmp"
+
+IDB_LNOTICEBITCH5       BITMAP                  "..\\RES\\LFrightenedBitch5.bmp"
+
+IDB_PKBITCH1            BITMAP                  "..\\RES\\fightbitch.bmp"
+
+IDB_PKBITCH2            BITMAP                  "..\\RES\\fightbitch2.bmp"
+
+IDB_PKBITCH3            BITMAP                  "..\\RES\\fightbitch3.bmp"
+
+IDB_PKBITCH4            BITMAP                  "..\\RES\\fightbitch4.bmp"
+
+IDB_PKBITCH5            BITMAP                  "..\\RES\\fightbitch5.bmp"
+
+IDB_PKGIRL1             BITMAP                  "..\\RES\\fightgirl.bmp"
+
+IDB_PKGIRL2             BITMAP                  "..\\RES\\fightgirl2.bmp"
+
+IDB_PKGIRL3             BITMAP                  "..\\RES\\fightgirl3.bmp"
+
+IDB_PKGIRL4             BITMAP                  "..\\RES\\fightgirl4.bmp"
+
+IDB_PKGIRL5             BITMAP                  "..\\RES\\fightgirl5.bmp"
+
+IDB_PKBACKGROUND1       BITMAP                  "..\\RES\\PKbackgound1.bmp"
+
+IDB_PKBACKGROUND2       BITMAP                  "..\\RES\\PKbackgound2.bmp"
+
+IDB_PKBACKGROUND3       BITMAP                  "..\\RES\\PKbackgound3.bmp"
+
+IDB_PKBACKGROUND4       BITMAP                  "..\\RES\\PKbackgound4.bmp"
+
+IDB_PKBACKGROUND5       BITMAP                  "..\\RES\\PKbackgound5.bmp"
+
+IDB_PKBACKGROUND6       BITMAP                  "..\\RES\\PKbackgound6.bmp"
+
+IDB_PKLINE0             BITMAP                  "..\\RES\\pkline0.bmp"
+
+IDB_PKLINE1             BITMAP                  "..\\RES\\pkline1.bmp"
+
+IDB_PKLINE2             BITMAP                  "..\\RES\\pkline2.bmp"
+
+IDB_PKLINE3             BITMAP                  "..\\RES\\pkline3.bmp"
+
+IDB_PKLINE4             BITMAP                  "..\\RES\\pkline4.bmp"
+
+IDB_PKLINE5             BITMAP                  "..\\RES\\pkline5.bmp"
+
+IDB_PKLINE6             BITMAP                  "..\\RES\\pkline6.bmp"
+
+IDB_PKLINE7             BITMAP                  "..\\RES\\pkline7.bmp"
+
+IDB_PKLINE8             BITMAP                  "..\\RES\\pkline8.bmp"
+
+IDB_PKLINE9             BITMAP                  "..\\RES\\pkline9.bmp"
+
+IDB_PKLINE10            BITMAP                  "..\\RES\\pkline10.bmp"
+
+IDB_PKLINE11            BITMAP                  "..\\RES\\pkline11.bmp"
+
+IDB_PKLINE12            BITMAP                  "..\\RES\\pkline12.bmp"
+
+IDB_PKLINE13            BITMAP                  "..\\RES\\pkline13.bmp"
+
+IDB_PKLINE14            BITMAP                  "..\\RES\\pkline14.bmp"
+
+IDB_PKLINE15            BITMAP                  "..\\RES\\pkline15.bmp"
+
+IDB_PKLINE16            BITMAP                  "..\\RES\\pkline16.bmp"
+
+IDB_PKLINE17            BITMAP                  "..\\RES\\pkline17.bmp"
+
+IDB_PKLINE18            BITMAP                  "..\\RES\\pkline18.bmp"
+
+IDB_PKLINE19            BITMAP                  "..\\RES\\pkline19.bmp"
+
+IDB_PKLINE21            BITMAP                  "..\\RES\\pkline21.bmp"
+
+IDB_PKLINE22            BITMAP                  "..\\RES\\pkline22.bmp"
+
+IDB_PKLINE23            BITMAP                  "..\\RES\\pkline23.bmp"
+
+IDB_PKLINE24            BITMAP                  "..\\RES\\pkline24.bmp"
+
+IDB_PKLINE20            BITMAP                  "..\\RES\\pkline20.bmp"
+
+IDB_combo1              BITMAP                  "..\\RES\\combo1.bmp"
+
+IDB_COMBO2              BITMAP                  "..\\RES\\combo2.bmp"
+
+IDB_LLOCKSNACK1         BITMAP                  "..\\RES\\LLockLuSnake1.bmp"
+
+IDB_LLOCKSNACK2         BITMAP                  "..\\RES\\LLockLuSnake2.bmp"
+
+IDB_LLOCKSNACK3         BITMAP                  "..\\RES\\LLockLuSnake3.bmp"
+
+IDB_LLOCKSNACK4         BITMAP                  "..\\RES\\LLockLuSnake4.bmp"
+
+IDB_RLOCKSNACK1         BITMAP                  "..\\RES\\RLockLuSnake1.bmp"
+
+IDB_RLOCKSNACK2         BITMAP                  "..\\RES\\RLockLuSnake2.bmp"
+
+IDB_RLOCKSNACK3         BITMAP                  "..\\RES\\RLockLuSnake3.bmp"
+
+IDB_RLOCKSNACK4         BITMAP                  "..\\RES\\RLockLuSnake4.bmp"
+
+IDB_BIGHEART            BITMAP                  "..\\RES\\bigHeart.bmp"
+
+IDB_LLOSEBITCH0         BITMAP                  "..\\RES\\LLoseBitch0.bmp"
+
+IDB_LLOSEBITCH1         BITMAP                  "..\\RES\\LLoseBitch1.bmp"
+
+IDB_LLOSEBITCH2         BITMAP                  "..\\RES\\LLoseBitch2.bmp"
+
+IDB_LLOSEBITCH3         BITMAP                  "..\\RES\\LLoseBitch3.bmp"
+
+IDB_LLOSEBITCH4         BITMAP                  "..\\RES\\LLoseBitch4.bmp"
+
+IDB_LLOSEBITCH5         BITMAP                  "..\\RES\\LLoseBitch5.bmp"
+
+IDB_LLOSEBITCH6         BITMAP                  "..\\RES\\LLoseBitch6.bmp"
+
+IDB_LLOSEBITCH7         BITMAP                  "..\\RES\\LLoseBitch7.bmp"
+
+IDB_RLOSEBITCH0         BITMAP                  "..\\RES\\RLoseBitch0.bmp"
+
+IDB_RLOSEBITCH1         BITMAP                  "..\\RES\\RLoseBitch1.bmp"
+
+IDB_RLOSEBITCH2         BITMAP                  "..\\RES\\RLoseBitch2.bmp"
+
+IDB_RLOSEBITCH3         BITMAP                  "..\\RES\\RLoseBitch3.bmp"
+
+IDB_RLOSEBITCH4         BITMAP                  "..\\RES\\RLoseBitch4.bmp"
+
+IDB_RLOSEBITCH5         BITMAP                  "..\\RES\\RLoseBitch5.bmp"
+
+IDB_RLOSEBITCH6         BITMAP                  "..\\RES\\RLoseBitch6.bmp"
+
+IDB_RLOSEBITCH7         BITMAP                  "..\\RES\\RLoseBitch7.bmp"
+
+IDB_WLWBITCH0           BITMAP                  "..\\RES\\LSmileBitch0.bmp"
+
+IDB_WLWBITCH1           BITMAP                  "..\\RES\\LSmileBitch1.bmp"
+
+IDB_WLWBITCH2           BITMAP                  "..\\RES\\LSmileBitch2.bmp"
+
+IDB_WLWBITCH3           BITMAP                  "..\\RES\\LSmileBitch3.bmp"
+
+IDB_WRWBITCH0           BITMAP                  "..\\RES\\RSmileBitch0.bmp"
+
+IDB_WRWBITCH1           BITMAP                  "..\\RES\\RSmileBitch1.bmp"
+
+IDB_WRWBITCH2           BITMAP                  "..\\RES\\RSmileBitch2.bmp"
+
+IDB_WRWBITCH3           BITMAP                  "..\\RES\\RSmileBitch3.bmp"
+
+IDB_SLOVE0              BITMAP                  "..\\RES\\smalllove0.bmp"
+
+IDB_SLOVE1              BITMAP                  "..\\RES\\smalllove1.bmp"
+
+IDB_SLOVE2              BITMAP                  "..\\RES\\smalllove2.bmp"
+
+IDB_SLOVE3              BITMAP                  "..\\RES\\smalllove3.bmp"
+
+IDB_SLOVE4              BITMAP                  "..\\RES\\smalllove4.bmp"
+
+IDB_SLOVE5              BITMAP                  "..\\RES\\smalllove5.bmp"
+
+IDB_SLOVE6              BITMAP                  "..\\RES\\smalllove6.bmp"
+
+IDB_SLOVE7              BITMAP                  "..\\RES\\smalllove7.bmp"
+
+IDB_SLOVE8              BITMAP                  "..\\RES\\smalllove8.bmp"
+
+IDB_SLOVE21             BITMAP                  "..\\res\\slove21.bmp"
+
+IDB_SLOVE31             BITMAP                  "..\\res\\slove31.bmp"
+
+IDB_SLOVE41             BITMAP                  "..\\res\\slove41.bmp"
+
+IDB_SLOVE51             BITMAP                  "..\\res\\slove51.bmp"
+
+IDB_SLOVE61             BITMAP                  "..\\res\\slove61.bmp"
+
+IDB_SLOVE71             BITMAP                  "..\\res\\slove71.bmp"
+
+IDB_SLOVE82             BITMAP                  "..\\res\\slove82.bmp"
+
+IDB_SLOVE81             BITMAP                  "..\\res\\slove81.bmp"
+
+IDB_SLOVE11             BITMAP                  "..\\res\\slove11.bmp"
+
+IDB_SLOVE01             BITMAP                  "..\\res\\slove01.bmp"
+
+IDB_LTEACHER0           BITMAP                  "..\\RES\\LTeacher0.bmp"
+
+IDB_LTEACHER1           BITMAP                  "..\\RES\\LTeacher1.bmp"
+
+IDB_LTEACHER2           BITMAP                  "..\\RES\\LTeacher2.bmp"
+
+IDB_LTEACHER3           BITMAP                  "..\\RES\\LTeacher3.bmp"
+
+IDB_RTEACHER0           BITMAP                  "..\\RES\\RTeacher0.bmp"
+
+IDB_RTEACHER1           BITMAP                  "..\\RES\\RTeacher1.bmp"
+
+IDB_RTEACHER2           BITMAP                  "..\\RES\\RTeacher2.bmp"
+
+IDB_RTEACHER3           BITMAP                  "..\\RES\\RTeacher3.bmp"
+
+IDB_SHADOW              BITMAP                  "..\\RES\\shadow.bmp"
+
+IDB_CLOCK0              BITMAP                  "..\\RES\\clocker0.bmp"
+
+IDB_CLOCK1              BITMAP                  "..\\RES\\clocker1.bmp"
+
+IDB_CLOCK2              BITMAP                  "..\\RES\\clocker2.bmp"
+
+IDB_CLOCK3              BITMAP                  "..\\RES\\clocker3.bmp"
+
+IDB_CLOCK4              BITMAP                  "..\\RES\\clocker4.bmp"
+
+IDB_CLOCK5              BITMAP                  "..\\RES\\clocker5.bmp"
+
+IDB_CLOCK6              BITMAP                  "..\\RES\\clocker6.bmp"
+
+IDB_CLOCK7              BITMAP                  "..\\RES\\clocker7.bmp"
+
+IDB_CLOCK8              BITMAP                  "..\\RES\\clocker8.bmp"
+
+IDB_CLOCK9              BITMAP                  "..\\RES\\clocker9.bmp"
+
+IDB_CLOCK10             BITMAP                  "..\\RES\\clocker10.bmp"
+
+IDB_CLOCK12             BITMAP                  "..\\RES\\clocker12.bmp"
+
+IDB_CLOCK11             BITMAP                  "..\\RES\\clocker11.bmp"
+
+IDB_LLAYDOWN0           BITMAP                  "..\\RES\\laydown\\Llaydown0.bmp"
+
+IDB_LLAYDOWN1           BITMAP                  "..\\RES\\laydown\\Llaydown1.bmp"
+
+IDB_LLAYDOWN2           BITMAP                  "..\\RES\\laydown\\Llaydown2.bmp"
+
+IDB_LLAYDOWN3           BITMAP                  "..\\RES\\laydown\\Llaydown3.bmp"
+
+IDB_LLAYDOWN4           BITMAP                  "..\\\\RES\\laydown\\Llaydown4.bmp"
+
+IDB_LLAYDOWN5           BITMAP                  "..\\\\RES\\laydown\\Llaydown5.bmp"
+
+IDB_LLAYDOWN6           BITMAP                  "..\\RES\\laydown\\Llaydown6.bmp"
+
+IDB_LLAYDOWN7           BITMAP                  "..\\RES\\laydown\\Llaydown7.bmp"
+
+IDB_LLAYDOWN8           BITMAP                  "..\\RES\\laydown\\Llaydown8.bmp"
+
+IDB_LLAYDOWN9           BITMAP                  "..\\RES\\laydown\\Llaydown9.bmp"
+
+IDB_LLAYDOWN10          BITMAP                  "..\\RES\\laydown\\Llaydown10.bmp"
+
+IDB_LLAYDOWN11          BITMAP                  "..\\RES\\laydown\\Llaydown11.bmp"
+
+IDB_LLAYDOWN12          BITMAP                  "..\\RES\\laydown\\Llaydown12.bmp"
+
+IDB_LLAYDOWN13          BITMAP                  "..\\RES\\laydown\\Llaydown13.bmp"
+
+IDB_LLAYDOWN14          BITMAP                  "..\\RES\\laydown\\Llaydown14.bmp"
+
+IDB_RLAYDOWN0           BITMAP                  "..\\RES\\laydown\\Rlaydown0.bmp"
+
+IDB_RLAYDOWN1           BITMAP                  "..\\RES\\laydown\\Rlaydown1.bmp"
+
+IDB_RLAYDOWN2           BITMAP                  "..\\RES\\laydown\\Rlaydown2.bmp"
+
+IDB_RLAYDOWN3           BITMAP                  "..\\RES\\laydown\\Rlaydown3.bmp"
+
+IDB_RLAYDOWN4           BITMAP                  "..\\RES\\laydown\\Rlaydown4.bmp"
+
+IDB_RLAYDOWN5           BITMAP                  "..\\RES\\laydown\\Rlaydown5.bmp"
+
+IDB_RLAYDOWN6           BITMAP                  "..\\RES\\laydown\\Rlaydown6.bmp"
+
+IDB_RLAYDOWN7           BITMAP                  "..\\RES\\laydown\\Rlaydown7.bmp"
+
+IDB_RLAYDOWN8           BITMAP                  "..\\RES\\laydown\\Rlaydown8.bmp"
+
+IDB_RLAYDOWN9           BITMAP                  "..\\RES\\laydown\\Rlaydown9.bmp"
+
+IDB_RLAYDOWN10          BITMAP                  "..\\RES\\laydown\\Rlaydown10.bmp"
+
+IDB_RLAYDOWN11          BITMAP                  "..\\RES\\laydown\\Rlaydown11.bmp"
+
+IDB_RLAYDOWN12          BITMAP                  "..\\RES\\laydown\\Rlaydown12.bmp"
+
+IDB_RLAYDOWN13          BITMAP                  "..\\RES\\laydown\\Rlaydown13.bmp"
+
+IDB_RLAYDOWN14          BITMAP                  "..\\RES\\laydown\\Rlaydown14.bmp"
+
+IDB_INVICINBLE0         BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine0.bmp"
+
+IDB_INVICINBLE1         BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine1.bmp"
+
+IDB_INVICINBLE2         BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine2.bmp"
+
+IDB_INVICINBLE3         BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine3.bmp"
+
+IDB_INVICINBLE4         BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine4.bmp"
+
+IDB_INVICINBLE5         BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine5.bmp"
+
+IDB_INVICINBLE6         BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine6.bmp"
+
+IDB_INVICINBLE7         BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine7.bmp"
+
+IDB_INVICINBLE8         BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine8.bmp"
+
+IDB_INVICINBLE9         BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine9.bmp"
+
+IDB_INVICINBLE10        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine10.bmp"
+
+IDB_INVICINBLE11        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine11.bmp"
+
+IDB_INVICINBLE12        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine12.bmp"
+
+IDB_INVICINBLE13        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine13.bmp"
+
+IDB_INVICINBLE14        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine14.bmp"
+
+IDB_INVICINBLE15        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine15.bmp"
+
+IDB_INVICINBLE16        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine16.bmp"
+
+IDB_INVICINBLE17        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine17.bmp"
+
+IDB_INVICINBLE18        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine18.bmp"
+
+IDB_INVICINBLE19        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine19.bmp"
+
+IDB_INVICINBLE20        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine20.bmp"
+
+IDB_INVICINBLE21        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine21.bmp"
+
+IDB_INVICINBLE22        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine22.bmp"
+
+IDB_INVICINBLE23        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine23.bmp"
+
+IDB_INVICINBLE24        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine24.bmp"
+
+IDB_INVICINBLE25        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine25.bmp"
+
+IDB_INVICINBLE26        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine26.bmp"
+
+IDB_INVICINBLE27        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine27.bmp"
+
+IDB_INVICINBLE28        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine28.bmp"
+
+IDB_INVICINBLE29        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine29.bmp"
+
+IDB_INVICINBLE30        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine30.bmp"
+
+IDB_INVICINBLE31        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine31.bmp"
+
+IDB_INVICINBLE32        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine32.bmp"
+
+IDB_INVICINBLE33        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine33.bmp"
+
+IDB_INVICINBLE34        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine34.bmp"
+
+IDB_INVICINBLE35        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine35.bmp"
+
+IDB_INVICINBLE36        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine36.bmp"
+
+IDB_INVICINBLE37        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine37.bmp"
+
+IDB_INVICINBLE38        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine38.bmp"
+
+IDB_INVICINBLE39        BITMAP                  "..\\RES\\invicinbleLine\\invicinbleLine39.bmp"
+
+IDB_FLOWER1             BITMAP                  "..\\RES\\invicinbleLine\\flower1.bmp"
+
+IDB_FLOWER2             BITMAP                  "..\\RES\\invicinbleLine\\flower2.bmp"
+
+IDB_INVICINBLEBORDER    BITMAP                  "..\\RES\\invicinbleLine\\lineBorder.bmp"
+
+IDB_ClassRoom           BITMAP                  "..\\RES\\map\\map.bmp"
+
+IDB_Lstair1F            BITMAP                  "..\\RES\\map\\Lstair1F.bmp"
+
+IDB_Lstair2F            BITMAP                  "..\\RES\\map\\Lstair2F.bmp"
+
+IDB_Lstair3F            BITMAP                  "..\\RES\\map\\Lstair3F.bmp"
+
+IDB_Rstair1F            BITMAP                  "..\\RES\\map\\Rstair1F.bmp"
+
+IDB_Rstair2F            BITMAP                  "..\\RES\\map\\Rstair2F.bmp"
+
+IDB_Rstair3F            BITMAP                  "..\\RES\\map\\Rstair3F.bmp"
+
+IDB_Lstair4F            BITMAP                  "..\\RES\\map\\Lstair4F.bmp"
+
+IDB_Rstair4F            BITMAP                  "..\\RES\\map\\Rstair4F.bmp"
+
+IDB_ROOF1               BITMAP                  "..\\RES\\map\\roof1.bmp"
+
+IDB_ROOF2               BITMAP                  "..\\RES\\map\\roof2.bmp"
+
+IDB_WLBoy1              BITMAP                  "..\\RES\\handsomeBoy\\WLBoy1.bmp"
+
+IDB_WLBoy2              BITMAP                  "..\\RES\\handsomeBoy\\WLBoy2.bmp"
+
+IDB_WLBoy3              BITMAP                  "..\\RES\\handsomeBoy\\WLBoy3.bmp"
+
+IDB_WLBoy4              BITMAP                  "..\\RES\\handsomeBoy\\WLBoy4.bmp"
+
+IDB_WRBoy2              BITMAP                  "..\\RES\\handsomeBoy\\WRBoy1.bmp"
+
+IDB_WRBoy1              BITMAP                  "..\\RES\\handsomeBoy\\WRBoy2.bmp"
+
+IDB_WRBoy3              BITMAP                  "..\\RES\\handsomeBoy\\WRBoy3.bmp"
+
+IDB_WRBoy4              BITMAP                  "..\\RES\\handsomeBoy\\WRBoy4.bmp"
+
+IDB_LToolBoy1           BITMAP                  "..\\RES\\handsomeBoy\\LToolBoy1.bmp"
+
+IDB_LToolBoy2           BITMAP                  "..\\RES\\handsomeBoy\\LToolBoy2.bmp"
+
+IDB_LToolBoy3           BITMAP                  "..\\RES\\handsomeBoy\\LToolBoy3.bmp"
+
+IDB_LToolBoy4           BITMAP                  "..\\RES\\handsomeBoy\\LToolBoy4.bmp"
+
+IDB_RToolBoy1           BITMAP                  "..\\RES\\handsomeBoy\\RToolBoy1.bmp"
+
+IDB_RToolBoy2           BITMAP                  "..\\RES\\handsomeBoy\\RToolBoy2.bmp"
+
+IDB_RToolBoy3           BITMAP                  "..\\RES\\handsomeBoy\\RToolBoy3.bmp"
+
+IDB_RToolBoy4           BITMAP                  "..\\RES\\handsomeBoy\\RToolBoy4.bmp"
+
+IDB_LLBoy1              BITMAP                  "..\\RES\\handsomeBoy\\LLBoy1.bmp"
+
+IDB_LLBoy2              BITMAP                  "..\\RES\\handsomeBoy\\LLBoy2.bmp"
+
+IDB_LLBoy3              BITMAP                  "..\\RES\\handsomeBoy\\LLBoy3.bmp"
+
+IDB_LLBoy4              BITMAP                  "..\\RES\\handsomeBoy\\LLBoy4.bmp"
+
+IDB_LRBoy1              BITMAP                  "..\\RES\\handsomeBoy\\LRBoy1.bmp"
+
+IDB_LRBoy2              BITMAP                  "..\\RES\\handsomeBoy\\LRBoy2.bmp"
+
+IDB_LRBoy3              BITMAP                  "..\\RES\\handsomeBoy\\LRBoy3.bmp"
+
+IDB_LRBoy4              BITMAP                  "..\\RES\\handsomeBoy\\LRBoy4.bmp"
+
+IDB_BLACKBROAD          BITMAP                  "..\\RES\\小物件\\blackbroad.bmp"
+
+IDB_buttonUp1           BITMAP                  "..\\RES\\小物件\\buttonUp1.bmp"
+
+IDB_buttonUp2           BITMAP                  "..\\RES\\小物件\\buttonUp2.bmp"
+
+IDB_buttonDown1         BITMAP                  "..\\RES\\小物件\\buttonDown1.bmp"
+
+IDB_buttonDown2         BITMAP                  "..\\RES\\小物件\\buttonDown2.bmp"
+
+IDB_WLCoolBoy1          BITMAP                  "..\\RES\\外國帥哥\\WLCoolBoy1.bmp"
+
+IDB_WLCoolBoy2          BITMAP                  "..\\RES\\外國帥哥\\WLCoolBoy2.bmp"
+
+IDB_WLCoolBoy3          BITMAP                  "..\\RES\\外國帥哥\\WLCoolBoy3.bmp"
+
+IDB_WLCoolBoy4          BITMAP                  "..\\RES\\外國帥哥\\WLCoolBoy4.bmp"
+
+IDB_WRCoolBoy1          BITMAP                  "..\\RES\\外國帥哥\\WRCoolBoy1.bmp"
+
+IDB_WRCoolBoy2          BITMAP                  "..\\RES\\外國帥哥\\WRCoolBoy2.bmp"
+
+IDB_WRCoolBoy3          BITMAP                  "..\\RES\\外國帥哥\\WRCoolBoy3.bmp"
+
+IDB_LLCoolBoy1          BITMAP                  "..\\RES\\外國帥哥\\LLCoolBoy1.bmp"
+
+IDB_LLCoolBoy2          BITMAP                  "..\\RES\\外國帥哥\\LLCoolBoy2.bmp"
+
+IDB_LLCoolBoy3          BITMAP                  "..\\RES\\外國帥哥\\LLCoolBoy3.bmp"
+
+IDB_LLCoolBoy4          BITMAP                  "..\\RES\\外國帥哥\\LLCoolBoy4.bmp"
+
+IDB_LRCoolBoy1          BITMAP                  "..\\RES\\外國帥哥\\LRCoolBoy1.bmp"
+
+IDB_LRCoolBoy2          BITMAP                  "..\\RES\\外國帥哥\\LRCoolBoy2.bmp"
+
+IDB_LRCoolBoy3          BITMAP                  "..\\RES\\外國帥哥\\LRCoolBoy3.bmp"
+
+IDB_LRCoolBoy4          BITMAP                  "..\\RES\\外國帥哥\\LRCoolBoy4.bmp"
+
+IDB_WRCoolBoy4          BITMAP                  "..\\RES\\外國帥哥\\WRCoolBoy4.bmp"
+
+IDB_LToolCoolBoy1       BITMAP                  "..\\RES\\外國帥哥\\LToolCoolBoy1.bmp"
+
+IDB_LToolCoolBoy2       BITMAP                  "..\\RES\\外國帥哥\\LToolCoolBoy2.bmp"
+
+IDB_LToolCoolBoy3       BITMAP                  "..\\RES\\外國帥哥\\LToolCoolBoy3.bmp"
+
+IDB_RToolCoolBoy1       BITMAP                  "..\\RES\\外國帥哥\\RToolCoolBoy1.bmp"
+
+IDB_RToolCoolBoy2       BITMAP                  "..\\RES\\外國帥哥\\RToolCoolBoy2.bmp"
+
+IDB_RToolCoolBoy3       BITMAP                  "..\\RES\\外國帥哥\\RToolCoolBoy3.bmp"
+
+IDB_soundOff            BITMAP                  "..\\RES\\小物件\\soundOff.bmp"
+
+IDB_soundOn             BITMAP                  "..\\RES\\小物件\\soundOn.bmp"
+
+IDB_endLhotgirl1        BITMAP                  "..\\RES\\endGirl\\endLhotgirl1.bmp"
+
+IDB_endLhotgirl2        BITMAP                  "..\\RES\\endGirl\\endLhotgirl2.bmp"
+
+IDB_endLhotgirl3        BITMAP                  "..\\RES\\endGirl\\endLhotgirl3.bmp"
+
+IDB_endLhotgirl4        BITMAP                  "..\\RES\\endGirl\\endLhotgirl4.bmp"
+
+IDB_endLhotgirl5        BITMAP                  "..\\RES\\endGirl\\endLhotgirl5.bmp"
+
+IDB_endRhotgirl1        BITMAP                  "..\\RES\\endGirl\\endRhotgirl1.bmp"
+
+IDB_endRhotgirl2        BITMAP                  "..\\RES\\endGirl\\endRhotgirl2.bmp"
+
+IDB_endRhotgirl3        BITMAP                  "..\\RES\\endGirl\\endRhotgirl3.bmp"
+
+IDB_endRhotgirl4        BITMAP                  "..\\RES\\endGirl\\endRhotgirl4.bmp"
+
+IDB_endRhotgirl5        BITMAP                  "..\\RES\\endGirl\\endRhotgirl5.bmp"
+
+IDB_endwalkleft1        BITMAP                  "..\\RES\\endGirl\\endwalkleft1.bmp"
+
+IDB_endwalkleft2        BITMAP                  "..\\RES\\endGirl\\endwalkleft2.bmp"
+
+IDB_endwalkleft3        BITMAP                  "..\\RES\\endGirl\\endwalkleft3.bmp"
+
+IDB_endwalkleft4        BITMAP                  "..\\RES\\endGirl\\endwalkleft4.bmp"
+
+IDB_endwalkright1       BITMAP                  "..\\RES\\endGirl\\endwalkright1.bmp"
+
+IDB_endwalkright2       BITMAP                  "..\\RES\\endGirl\\endwalkright2.bmp"
+
+IDB_endwalkright3       BITMAP                  "..\\RES\\endGirl\\endwalkright3.bmp"
+
+IDB_endwalkright4       BITMAP                  "..\\RES\\endGirl\\endwalkright4.bmp"
+
+IDB_LLfuckBoy1          BITMAP                  "..\\RES\\帥哥\\LLfuckBoy1.bmp"
+
+IDB_LLfuckBoy2          BITMAP                  "..\\RES\\帥哥\\LLfuckBoy2.bmp"
+
+IDB_LLfuckBoy3          BITMAP                  "..\\RES\\帥哥\\LLfuckBoy3.bmp"
+
+IDB_LLfuckBoy4          BITMAP                  "..\\RES\\帥哥\\LLfuckBoy4.bmp"
+
+IDB_LRfuckBoy1          BITMAP                  "..\\RES\\帥哥\\LRfuckBoy1.bmp"
+
+IDB_LRfuckBoy2          BITMAP                  "..\\RES\\帥哥\\LRfuckBoy2.bmp"
+
+IDB_LRfuckBoy3          BITMAP                  "..\\RES\\帥哥\\LRfuckBoy3.bmp"
+
+IDB_LRfuckBoy4          BITMAP                  "..\\RES\\帥哥\\LRfuckBoy4.bmp"
+
+IDB_LToolFuckBoy1       BITMAP                  "..\\RES\\帥哥\\LToolFuckBoy1.bmp"
+
+IDB_LToolFuckBoy2       BITMAP                  "..\\RES\\帥哥\\LToolFuckBoy2.bmp"
+
+IDB_LToolFuckBoy3       BITMAP                  "..\\RES\\帥哥\\LToolFuckBoy3.bmp"
+
+IDB_LToolFuckBoy4       BITMAP                  "..\\RES\\帥哥\\LToolFuckBoy4.bmp"
+
+IDB_RToolFuckBoy1       BITMAP                  "..\\RES\\帥哥\\RToolFuckBoy1.bmp"
+
+IDB_RToolFuckBoy2       BITMAP                  "..\\RES\\帥哥\\RToolFuckBoy2.bmp"
+
+IDB_RToolFuckBoy3       BITMAP                  "..\\RES\\帥哥\\RToolFuckBoy3.bmp"
+
+IDB_RToolFuckBoy4       BITMAP                  "..\\RES\\帥哥\\RToolFuckBoy4.bmp"
+
+IDB_WLfuckBoy1          BITMAP                  "..\\RES\\帥哥\\WLfuckBoy1.bmp"
+
+IDB_WLfuckBoy2          BITMAP                  "..\\RES\\帥哥\\WLfuckBoy2.bmp"
+
+IDB_WLfuckBoy3          BITMAP                  "..\\RES\\帥哥\\WLfuckBoy3.bmp"
+
+IDB_WLfuckBoy4          BITMAP                  "..\\RES\\帥哥\\WLfuckBoy4.bmp"
+
+IDB_WRfuckBoy1          BITMAP                  "..\\RES\\帥哥\\WRfuckBoy1.bmp"
+
+IDB_WRfuckBoy2          BITMAP                  "..\\RES\\帥哥\\WRfuckBoy2.bmp"
+
+IDB_WRfuckBoy3          BITMAP                  "..\\RES\\帥哥\\WRfuckBoy3.bmp"
+
+IDB_WRfuckBoy4          BITMAP                  "..\\RES\\帥哥\\WRfuckBoy4.bmp"
+
+IDB_sadEnd1             BITMAP                  "..\\RES\\ending1\\sadEnd1.bmp"
+
+IDB_sadEnd2             BITMAP                  "..\\RES\\ending1\\sadEnd2.bmp"
+
+IDB_sadEnd3             BITMAP                  "..\\RES\\ending1\\sadEnd3.bmp"
+
+IDB_sadEnd4             BITMAP                  "..\\RES\\ending1\\sadEnd4.bmp"
+
+IDB_sadEnd5             BITMAP                  "..\\RES\\ending1\\sadEnd5.bmp"
+
+IDB_sadEnd6             BITMAP                  "..\\RES\\ending1\\sadEnd6.bmp"
+
+IDB_sadEnd7             BITMAP                  "..\\RES\\ending1\\sadEnd7.bmp"
+
+IDB_sadEnd8             BITMAP                  "..\\RES\\ending1\\sadEnd8.bmp"
+
+IDB_sadEnd9             BITMAP                  "..\\RES\\ending1\\sadEnd9.bmp"
+
+IDB_sadEnd10            BITMAP                  "..\\RES\\ending1\\sadEnd10.bmp"
+
+IDB_sadEnd11            BITMAP                  "..\\RES\\ending1\\sadEnd11.bmp"
+
+IDB_sadEnd12            BITMAP                  "..\\RES\\ending1\\sadEnd12.bmp"
+
+IDB_sadEnd13            BITMAP                  "..\\RES\\ending1\\sadEnd13.bmp"
+
+IDB_sadEnd14            BITMAP                  "..\\RES\\ending1\\sadEnd14.bmp"
+
+IDB_sadEnd15            BITMAP                  "..\\RES\\ending1\\sadEnd15.bmp"
+
+IDB_sadEnd16            BITMAP                  "..\\RES\\ending1\\sadEnd16.bmp"
+
+IDB_sadEnd17            BITMAP                  "..\\RES\\ending1\\sadEnd17.bmp"
+
+IDB_sadEnd18            BITMAP                  "..\\RES\\ending1\\sadEnd18.bmp"
+
+IDB_sadEnd19            BITMAP                  "..\\RES\\ending1\\sadEnd19.bmp"
+
+IDB_sadEnd20            BITMAP                  "..\\RES\\ending1\\sadEnd20.bmp"
+
+IDB_sadEnd21            BITMAP                  "..\\RES\\ending1\\sadEnd21.bmp"
+
+IDB_sadEnd22            BITMAP                  "..\\RES\\ending1\\sadEnd22.bmp"
+
+IDB_sadEnd23            BITMAP                  "..\\RES\\ending1\\sadEnd23.bmp"
+
+IDB_sadEnd24            BITMAP                  "..\\RES\\ending1\\sadEnd24.bmp"
+
+IDB_sadEnd25            BITMAP                  "..\\RES\\ending1\\sadEnd25.bmp"
+
+IDB_sadEnd26            BITMAP                  "..\\RES\\ending1\\sadEnd26.bmp"
+
+IDB_sadEnd27            BITMAP                  "..\\RES\\ending1\\sadEnd27.bmp"
+
+IDB_4wEnd1              BITMAP                  "..\\RES\\ending2\\4wEnd1.bmp"
+
+IDB_4wEnd2              BITMAP                  "..\\RES\\ending2\\4wEnd2.bmp"
+
+IDB_4wEnd3              BITMAP                  "..\\RES\\ending2\\4wEnd3.bmp"
+
+IDB_4wEnd4              BITMAP                  "..\\RES\\ending2\\4wEnd4.bmp"
+
+IDB_4wEnd5              BITMAP                  "..\\RES\\ending2\\4wEnd5.bmp"
+
+IDB_4wEnd6              BITMAP                  "..\\RES\\ending2\\4wEnd6.bmp"
+
+IDB_4wEnd7              BITMAP                  "..\\RES\\ending2\\4wEnd7.bmp"
+
+IDB_4wEnd8              BITMAP                  "..\\RES\\ending2\\4wEnd8.bmp"
+
+IDB_4wEnd9              BITMAP                  "..\\RES\\ending2\\4wEnd9.bmp"
+
+IDB_4wEnd10             BITMAP                  "..\\RES\\ending2\\4wEnd10.bmp"
+
+IDB_4wEnd11             BITMAP                  "..\\RES\\ending2\\4wEnd11.bmp"
+
+IDB_4wEnd12             BITMAP                  "..\\RES\\ending2\\4wEnd12.bmp"
+
+IDB_4wEnd13             BITMAP                  "..\\RES\\ending2\\4wEnd13.bmp"
+
+IDB_4wEnd14             BITMAP                  "..\\RES\\ending2\\4wEnd14.bmp"
+
+IDB_4wEnd15             BITMAP                  "..\\RES\\ending2\\4wEnd15.bmp"
+
+IDB_4wEnd16             BITMAP                  "..\\RES\\ending2\\4wEnd16.bmp"
+
+IDB_4wEnd17             BITMAP                  "..\\RES\\ending2\\4wEnd17.bmp"
+
+IDB_4wEnd18             BITMAP                  "..\\RES\\ending2\\4wEnd18.bmp"
+
+IDB_4wEnd19             BITMAP                  "..\\RES\\ending2\\4wEnd19.bmp"
+
+IDB_4wEnd20             BITMAP                  "..\\RES\\ending2\\4wEnd20.bmp"
+
+IDB_4wEnd21             BITMAP                  "..\\RES\\ending2\\4wEnd21.bmp"
+
+IDB_4wEnd22             BITMAP                  "..\\RES\\ending2\\4wEnd22.bmp"
+
+IDB_4wEnd23             BITMAP                  "..\\RES\\ending2\\4wEnd23.bmp"
+
+IDB_About               BITMAP                  "..\\RES\\StartOption\\About.bmp"
+
+IDB_About_click         BITMAP                  "..\\RES\\StartOption\\About_click.bmp"
+
+IDB_DirectStart         BITMAP                  "..\\RES\\StartOption\\DirectStart.bmp"
+
+IDB_DirectStart_click   BITMAP                  "..\\RES\\StartOption\\DirectStart_click.bmp"
+
+IDB_GameStart           BITMAP                  "..\\RES\\StartOption\\GameStart.bmp"
+
+IDB_GameStart_click     BITMAP                  "..\\RES\\StartOption\\GameStart_click.bmp"
+
+IDB_Leave               BITMAP                  "..\\RES\\StartOption\\Leave.bmp"
+
+IDB_Leave_click         BITMAP                  "..\\RES\\StartOption\\Leave_click.bmp"
+
+IDB_Return              BITMAP                  "..\\RES\\StartOption\\Return.bmp"
+
+IDB_Return_click        BITMAP                  "..\\RES\\StartOption\\Return_click.bmp"
+
+IDB_AboutDetail         BITMAP                  "..\\RES\\起始畫面\\AboutDetail.bmp"
+
+IDB_BACKGROUNDINITIAL   BITMAP                  "..\\RES\\起始畫面\\initialPic.bmp"
+
+IDB_75wEnd1             BITMAP                  "..\\RES\\ending3\\7.5wEnd1.bmp"
+
+IDB_75wEnd2             BITMAP                  "..\\RES\\ending3\\7.5wEnd2.bmp"
+
+IDB_75wEnd3             BITMAP                  "..\\RES\\ending3\\7.5wEnd3.bmp"
+
+IDB_75wEnd4             BITMAP                  "..\\RES\\ending3\\7.5wEnd4.bmp"
+
+IDB_75wEnd5             BITMAP                  "..\\RES\\ending3\\7.5wEnd5.bmp"
+
+IDB_75wEnd6             BITMAP                  "..\\RES\\ending3\\7.5wEnd6.bmp"
+
+IDB_75wEnd7             BITMAP                  "..\\RES\\ending3\\7.5wEnd7.bmp"
+
+IDB_75wEnd8             BITMAP                  "..\\RES\\ending3\\7.5wEnd8.bmp"
+
+IDB_75wEnd9             BITMAP                  "..\\RES\\ending3\\7.5wEnd9.bmp"
+
+IDB_75wEnd10            BITMAP                  "..\\RES\\ending3\\7.5wEnd10.bmp"
+
+IDB_75wEnd11            BITMAP                  "..\\RES\\ending3\\7.5wEnd11.bmp"
+
+IDB_75wEnd12            BITMAP                  "..\\RES\\ending3\\7.5wEnd12.bmp"
+
+IDB_75wEnd13            BITMAP                  "..\\RES\\ending3\\7.5wEnd13.bmp"
+
+IDB_75wEnd14            BITMAP                  "..\\RES\\ending3\\7.5wEnd14.bmp"
+
+IDB_75wEnd15            BITMAP                  "..\\RES\\ending3\\7.5wEnd15.bmp"
+
+IDB_75wEnd16            BITMAP                  "..\\RES\\ending3\\7.5wEnd16.bmp"
+
+IDB_75wEnd17            BITMAP                  "..\\RES\\ending3\\7.5wEnd17.bmp"
+
+IDB_75wEnd18            BITMAP                  "..\\RES\\ending3\\7.5wEnd18.bmp"
+
+IDB_75wEnd19            BITMAP                  "..\\RES\\ending3\\7.5wEnd19.bmp"
+
+IDB_75wEnd20            BITMAP                  "..\\RES\\ending3\\7.5wEnd20.bmp"
+
+IDB_75wEnd21            BITMAP                  "..\\RES\\ending3\\7.5wEnd21.bmp"
+
+IDB_75wEnd22            BITMAP                  "..\\RES\\ending3\\7.5wEnd22.bmp"
+
+IDB_75wEnd23            BITMAP                  "..\\RES\\ending3\\7.5wEnd23.bmp"
+
+IDB_75wEnd24            BITMAP                  "..\\RES\\ending3\\7.5wEnd24.bmp"
+
+IDB_10wEnd1             BITMAP                  "..\\RES\\ending4\\10wEnd1.bmp"
+
+IDB_10wEnd2             BITMAP                  "..\\RES\\ending4\\10wEnd2.bmp"
+
+IDB_10wEnd3             BITMAP                  "..\\RES\\ending4\\10wEnd3.bmp"
+
+IDB_10wEnd4             BITMAP                  "..\\RES\\ending4\\10wEnd4.bmp"
+
+IDB_10wEnd5             BITMAP                  "..\\RES\\ending4\\10wEnd5.bmp"
+
+IDB_10wEnd6             BITMAP                  "..\\RES\\ending4\\10wEnd6.bmp"
+
+IDB_10wEnd7             BITMAP                  "..\\RES\\ending4\\10wEnd7.bmp"
+
+IDB_10wEnd8             BITMAP                  "..\\RES\\ending4\\10wEnd8.bmp"
+
+IDB_10wEnd9             BITMAP                  "..\\RES\\ending4\\10wEnd9.bmp"
+
+IDB_10wEnd10            BITMAP                  "..\\RES\\ending4\\10wEnd10.bmp"
+
+IDB_10wEnd11            BITMAP                  "..\\RES\\ending4\\10wEnd11.bmp"
+
+IDB_10wEnd12            BITMAP                  "..\\RES\\ending4\\10wEnd12.bmp"
+
+IDB_10wEnd13            BITMAP                  "..\\RES\\ending4\\10wEnd13.bmp"
+
+IDB_10wEnd14            BITMAP                  "..\\RES\\ending4\\10wEnd14.bmp"
+
+IDB_10wEnd15            BITMAP                  "..\\RES\\ending4\\10wEnd15.bmp"
+
+IDB_10wEnd16            BITMAP                  "..\\RES\\ending4\\10wEnd16.bmp"
+
+IDB_10wEnd17            BITMAP                  "..\\RES\\ending4\\10wEnd17.bmp"
+
+IDB_10wEnd18            BITMAP                  "..\\RES\\ending4\\10wEnd18.bmp"
+
+IDB_10wEnd19            BITMAP                  "..\\RES\\ending4\\10wEnd19.bmp"
+
+IDB_10wEnd20            BITMAP                  "..\\RES\\ending4\\10wEnd20.bmp"
+
+IDB_10wEnd21            BITMAP                  "..\\RES\\ending4\\10wEnd21.bmp"
+
+IDB_10wEnd22            BITMAP                  "..\\RES\\ending4\\10wEnd22.bmp"
+
+IDB_10wEnd23            BITMAP                  "..\\RES\\ending4\\10wEnd23.bmp"
+
+IDB_10wEnd24            BITMAP                  "..\\RES\\ending4\\10wEnd24.bmp"
+
+IDB_10wEnd25            BITMAP                  "..\\RES\\ending4\\10wEnd25.bmp"
+
+IDB_10wEnd26            BITMAP                  "..\\RES\\ending4\\10wEnd26.bmp"
+
+IDB_10wEnd27            BITMAP                  "..\\RES\\ending4\\10wEnd27.bmp"
+
+IDB_10wEnd28            BITMAP                  "..\\RES\\ending4\\10wEnd28.bmp"
+
+IDB_10wEnd29            BITMAP                  "..\\RES\\ending4\\10wEnd29.bmp"
+
+IDB_10wEnd30            BITMAP                  "..\\RES\\ending4\\10wEnd30.bmp"
+
+IDB_10wEnd31            BITMAP                  "..\\RES\\ending4\\10wEnd31.bmp"
+
+IDB_10wEnd32            BITMAP                  "..\\RES\\ending4\\10wEnd32.bmp"
+
+IDB_10wEnd33            BITMAP                  "..\\RES\\ending4\\10wEnd33.bmp"
+
+IDB_10wEnd34            BITMAP                  "..\\RES\\ending4\\10wEnd34.bmp"
+
+IDB_15wEnd1             BITMAP                  "..\\RES\\ending5\\15wEnd1.bmp"
+
+IDB_15wEnd2             BITMAP                  "..\\RES\\ending5\\15wEnd2.bmp"
+
+IDB_15wEnd3             BITMAP                  "..\\RES\\ending5\\15wEnd3.bmp"
+
+IDB_15wEnd4             BITMAP                  "..\\RES\\ending5\\15wEnd4.bmp"
+
+IDB_15wEnd5             BITMAP                  "..\\RES\\ending5\\15wEnd5.bmp"
+
+IDB_15wEnd6             BITMAP                  "..\\RES\\ending5\\15wEnd6.bmp"
+
+IDB_15wEnd7             BITMAP                  "..\\RES\\ending5\\15wEnd7.bmp"
+
+IDB_15wEnd8             BITMAP                  "..\\RES\\ending5\\15wEnd8.bmp"
+
+IDB_15wEnd9             BITMAP                  "..\\RES\\ending5\\15wEnd9.bmp"
+
+IDB_15wEnd10            BITMAP                  "..\\RES\\ending5\\15wEnd10.bmp"
+
+IDB_15wEnd11            BITMAP                  "..\\RES\\ending5\\15wEnd11.bmp"
+
+IDB_15wEnd12            BITMAP                  "..\\RES\\ending5\\15wEnd12.bmp"
+
+IDB_15wEnd13            BITMAP                  "..\\RES\\ending5\\15wEnd13.bmp"
+
+IDB_15wEnd14            BITMAP                  "..\\RES\\ending5\\15wEnd14.bmp"
+
+IDB_15wEnd15            BITMAP                  "..\\RES\\ending5\\15wEnd15.bmp"
+
+IDB_15wEnd16            BITMAP                  "..\\RES\\ending5\\15wEnd16.bmp"
+
+IDB_15wEnd17            BITMAP                  "..\\RES\\ending5\\15wEnd17.bmp"
+
+IDB_15wEnd18            BITMAP                  "..\\RES\\ending5\\15wEnd18.bmp"
+
+IDB_15wEnd19            BITMAP                  "..\\RES\\ending5\\15wEnd19.bmp"
+
+IDB_15wEnd20            BITMAP                  "..\\RES\\ending5\\15wEnd20.bmp"
+
+IDB_15wEnd21            BITMAP                  "..\\RES\\ending5\\15wEnd21.bmp"
+
+IDB_15wEnd22            BITMAP                  "..\\RES\\ending5\\15wEnd22.bmp"
+
+IDB_15wEnd23            BITMAP                  "..\\RES\\ending5\\15wEnd23.bmp"
+
+IDB_15wEnd24            BITMAP                  "..\\RES\\ending5\\15wEnd24.bmp"
+
+IDB_15wEnd25            BITMAP                  "..\\RES\\ending5\\15wEnd25.bmp"
+
+IDB_15wEnd26            BITMAP                  "..\\RES\\ending5\\15wEnd26.bmp"
+
+IDB_15wEnd27            BITMAP                  "..\\RES\\ending5\\15wEnd27.bmp"
+
+IDB_15wEnd28            BITMAP                  "..\\RES\\ending5\\15wEnd28.bmp"
+
+IDB_15wEnd29            BITMAP                  "..\\RES\\ending5\\15wEnd29.bmp"
+
+IDB_15wEnd30            BITMAP                  "..\\RES\\ending5\\15wEnd30.bmp"
+
+IDB_15wEnd31            BITMAP                  "..\\RES\\ending5\\15wEnd31.bmp"
+
+IDB_15wEnd32            BITMAP                  "..\\RES\\ending5\\15wEnd32.bmp"
+
+IDB_FinalEnd1           BITMAP                  "..\\RES\\ending6\\FinalEnd1.bmp"
+
+IDB_FinalEnd2           BITMAP                  "..\\RES\\ending6\\FinalEnd2.bmp"
+
+IDB_FinalEnd3           BITMAP                  "..\\RES\\ending6\\FinalEnd3.bmp"
+
+IDB_FinalEnd4           BITMAP                  "..\\RES\\ending6\\FinalEnd4.bmp"
+
+IDB_FinalEnd5           BITMAP                  "..\\RES\\ending6\\FinalEnd5.bmp"
+
+IDB_FinalEnd6           BITMAP                  "..\\RES\\ending6\\FinalEnd6.bmp"
+
+IDB_FinalEnd7           BITMAP                  "..\\RES\\ending6\\FinalEnd7.bmp"
+
+IDB_FinalEnd8           BITMAP                  "..\\RES\\ending6\\FinalEnd8.bmp"
+
+IDB_FinalEnd9           BITMAP                  "..\\RES\\ending6\\FinalEnd9.bmp"
+
+IDB_FinalEnd10          BITMAP                  "..\\RES\\ending6\\FinalEnd10.bmp"
+
+IDB_FinalEnd11          BITMAP                  "..\\RES\\ending6\\FinalEnd11.bmp"
+
+IDB_FinalEnd12          BITMAP                  "..\\RES\\ending6\\FinalEnd12.bmp"
+
+IDB_FinalEnd13          BITMAP                  "..\\RES\\ending6\\FinalEnd13.bmp"
+
+IDB_FinalEnd14          BITMAP                  "..\\RES\\ending6\\FinalEnd14.bmp"
+
+IDB_FinalEnd15          BITMAP                  "..\\RES\\ending6\\FinalEnd15.bmp"
+
+IDB_FinalEnd16          BITMAP                  "..\\RES\\ending6\\FinalEnd16.bmp"
+
+IDB_FinalEnd17          BITMAP                  "..\\RES\\ending6\\FinalEnd17.bmp"
+
+IDB_FinalEnd18          BITMAP                  "..\\RES\\ending6\\FinalEnd18.bmp"
+
+IDB_FinalEnd19          BITMAP                  "..\\RES\\ending6\\FinalEnd19.bmp"
+
+IDB_FinalEnd20          BITMAP                  "..\\RES\\ending6\\FinalEnd20.bmp"
+
+IDB_FinalEnd21          BITMAP                  "..\\RES\\ending6\\FinalEnd21.bmp"
+
+IDB_FinalEnd22          BITMAP                  "..\\RES\\ending6\\FinalEnd22.bmp"
+
+IDB_FinalEnd23          BITMAP                  "..\\RES\\ending6\\FinalEnd23.bmp"
+
+IDB_FinalEnd24          BITMAP                  "..\\RES\\ending6\\FinalEnd24.bmp"
+
+IDB_FinalEnd25          BITMAP                  "..\\RES\\ending6\\FinalEnd25.bmp"
+
+IDB_FinalEnd26          BITMAP                  "..\\RES\\ending6\\FinalEnd26.bmp"
+
+IDB_FinalEnd27          BITMAP                  "..\\RES\\ending6\\FinalEnd27.bmp"
+
+IDB_FinalEnd28          BITMAP                  "..\\RES\\ending6\\FinalEnd28.bmp"
+
+IDB_FinalEnd29          BITMAP                  "..\\RES\\ending6\\FinalEnd29.bmp"
+
+IDB_FinalEnd30          BITMAP                  "..\\RES\\ending6\\FinalEnd30.bmp"
+
+IDB_About2              BITMAP                  "..\\RES\\StartOption\\about2.bmp"
+
+IDB_Return2             BITMAP                  "..\\RES\\StartOption\\back2.bmp"
+
+IDB_DirectStart2        BITMAP                  "..\\RES\\StartOption\\justStart2.bmp"
+
+IDB_Leave2              BITMAP                  "..\\RES\\StartOption\\leave2.bmp"
+
+IDB_GameStart2          BITMAP                  "..\\RES\\StartOption\\start2.bmp"
+
+IDB_moveRule1           BITMAP                  "..\\RES\\起始畫面\\rule\\moveRule\\1.bmp"
+
+IDB_moveRule2           BITMAP                  "..\\RES\\起始畫面\\rule\\moveRule\\2.bmp"
+
+IDB_moveRule3           BITMAP                  "..\\RES\\起始畫面\\rule\\moveRule\\3.bmp"
+
+IDB_moveRule4           BITMAP                  "..\\RES\\起始畫面\\rule\\moveRule\\4.bmp"
+
+IDB_moveRule5           BITMAP                  "..\\RES\\起始畫面\\rule\\moveRule\\5.bmp"
+
+IDB_moveRule6           BITMAP                  "..\\RES\\起始畫面\\rule\\moveRule\\6.bmp"
+
+IDB_moveRule7           BITMAP                  "..\\RES\\起始畫面\\rule\\moveRule\\7.bmp"
+
+IDB_moveRule8           BITMAP                  "..\\RES\\起始畫面\\rule\\moveRule\\8.bmp"
+
+IDB_moveRule9           BITMAP                  "..\\RES\\起始畫面\\rule\\moveRule\\9.bmp"
+
+IDB_stairRule1          BITMAP                  "..\\RES\\起始畫面\\rule\\stairRule\\1.bmp"
+
+IDB_stairRule2          BITMAP                  "..\\RES\\起始畫面\\rule\\stairRule\\2.bmp"
+
+IDB_stairRule3          BITMAP                  "..\\RES\\起始畫面\\rule\\stairRule\\3.bmp"
+
+IDB_stairRule4          BITMAP                  "..\\RES\\起始畫面\\rule\\stairRule\\4.bmp"
+
+IDB_stairRule5          BITMAP                  "..\\RES\\起始畫面\\rule\\stairRule\\5.bmp"
+
+IDB_stairRule6          BITMAP                  "..\\RES\\起始畫面\\rule\\stairRule\\6.bmp"
+
+IDB_stairRule7          BITMAP                  "..\\RES\\起始畫面\\rule\\stairRule\\7.bmp"
+
+IDB_stairRule8          BITMAP                  "..\\RES\\起始畫面\\rule\\stairRule\\8.bmp"
+
+IDB_attackRule1         BITMAP                  "..\\RES\\起始畫面\\rule\\attackRule\\1.bmp"
+
+IDB_attackRule2         BITMAP                  "..\\RES\\起始畫面\\rule\\attackRule\\2.bmp"
+
+IDB_attackRule3         BITMAP                  "..\\RES\\起始畫面\\rule\\attackRule\\3.bmp"
+
+IDB_attackRule4         BITMAP                  "..\\RES\\起始畫面\\rule\\attackRule\\4.bmp"
+
+IDB_attackRule5         BITMAP                  "..\\RES\\起始畫面\\rule\\attackRule\\5.bmp"
+
+IDB_attackRule6         BITMAP                  "..\\RES\\起始畫面\\rule\\attackRule\\6.bmp"
+
+IDB_attackRule7         BITMAP                  "..\\RES\\起始畫面\\rule\\attackRule\\7.bmp"
+
+IDB_attackRule8         BITMAP                  "..\\RES\\起始畫面\\rule\\attackRule\\8.bmp"
+
+IDB_attackRule9         BITMAP                  "..\\RES\\起始畫面\\rule\\attackRule\\9.bmp"
+
+IDB_pkRule1             BITMAP                  "..\\RES\\起始畫面\\rule\\pkRule\\1.bmp"
+
+IDB_pkRule2             BITMAP                  "..\\RES\\起始畫面\\rule\\pkRule\\2.bmp"
+
+IDB_pkRule3             BITMAP                  "..\\RES\\起始畫面\\rule\\pkRule\\3.bmp"
+
+IDB_pkRule4             BITMAP                  "..\\RES\\起始畫面\\rule\\pkRule\\4.bmp"
+
+IDB_pkRule5             BITMAP                  "..\\RES\\起始畫面\\rule\\pkRule\\5.bmp"
+
+IDB_pkRule6             BITMAP                  "..\\RES\\起始畫面\\rule\\pkRule\\6.bmp"
+
+IDB_pkRule7             BITMAP                  "..\\RES\\起始畫面\\rule\\pkRule\\7.bmp"
+
+IDB_pkRule8             BITMAP                  "..\\RES\\起始畫面\\rule\\pkRule\\8.bmp"
+
+IDB_pkRule9             BITMAP                  "..\\RES\\起始畫面\\rule\\pkRule\\9.bmp"
+
+IDB_teacherRule1        BITMAP                  "..\\RES\\起始畫面\\rule\\teacherRule\\1.bmp"
+
+IDB_teacherRule2        BITMAP                  "..\\RES\\起始畫面\\rule\\teacherRule\\2.bmp"
+
+IDB_teacherRule3        BITMAP                  "..\\RES\\起始畫面\\rule\\teacherRule\\3.bmp"
+
+IDB_teacherRule4        BITMAP                  "..\\RES\\起始畫面\\rule\\teacherRule\\4.bmp"
+
+IDB_teacherRule5        BITMAP                  "..\\RES\\起始畫面\\rule\\teacherRule\\5.bmp"
+
+IDB_teacherRule6        BITMAP                  "..\\RES\\起始畫面\\rule\\teacherRule\\6.bmp"
+
+IDB_teacherRule7        BITMAP                  "..\\RES\\起始畫面\\rule\\teacherRule\\7.bmp"
+
+IDB_teacherRule8        BITMAP                  "..\\RES\\起始畫面\\rule\\teacherRule\\8.bmp"
+
+IDB_teacherRule9        BITMAP                  "..\\RES\\起始畫面\\rule\\teacherRule\\9.bmp"
+
+IDB_teacherRule10       BITMAP                  "..\\RES\\起始畫面\\rule\\teacherRule\\10.bmp"
+
+IDB_teacherRule11       BITMAP                  "..\\RES\\起始畫面\\rule\\teacherRule\\11.bmp"
+
+IDB_teacherRule12       BITMAP                  "..\\RES\\起始畫面\\rule\\teacherRule\\12.bmp"
+
+IDB_teacherRule13       BITMAP                  "..\\RES\\起始畫面\\rule\\teacherRule\\13.bmp"
+
+IDB_normalRule          BITMAP                  "..\\RES\\起始畫面\\rule\\normalRule\\normalRule1.bmp"
+
+IDB_home1               BITMAP                  "..\\RES\\StartOption\\home1.bmp"
+
+IDB_home2               BITMAP                  "..\\RES\\StartOption\\home2.bmp"
+
+IDB_radioOpen           BITMAP                  "..\\RES\\小物件\\radio1.bmp"
+
+IDB_radioClose          BITMAP                  "..\\RES\\小物件\\radio2.bmp"
+
+IDB_keyMap              BITMAP                  "..\\RES\\遊戲其餘畫面\\keyMap.bmp"
+
+IDB_tip                 BITMAP                  "..\\RES\\遊戲其餘畫面\\tip.bmp"
+
+IDB_warning             BITMAP                  "..\\RES\\遊戲其餘畫面\\Warning.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_GAMECURSOR          CURSOR                  "..\\res\\gamecurs.cur"
+
+#endif    // 中文 (繁體，台灣) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// 英文 (美國) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDR_MAINFRAME           BITMAP                  "..\\res\\Toolbar.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "..\\res\\game.ico"
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_MAINFRAME TOOLBAR 16, 15
+BEGIN
+    BUTTON      ID_BUTTON_FULLSCREEN
+    BUTTON      ID_BUTTON_PAUSE
+    SEPARATOR
+    BUTTON      ID_FILE_OPEN
+    BUTTON      ID_FILE_SAVE
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&New",                        ID_FILE_NEW
+        MENUITEM "Pause\tCtrl+Q",               ID_FILE_PAUSE
+        MENUITEM "&Open...",                    ID_FILE_OPEN
+        MENUITEM "&Save",                       ID_FILE_SAVE
+        MENUITEM "Save &As...",                 ID_FILE_SAVE_AS
+        MENUITEM SEPARATOR
+        MENUITEM "&Print...",                   ID_FILE_PRINT
+        MENUITEM "Print Pre&view",              ID_FILE_PRINT_PREVIEW
+        MENUITEM "P&rint Setup...",             ID_FILE_PRINT_SETUP
+        MENUITEM SEPARATOR
+        MENUITEM "Recent File",                 ID_FILE_MRU_FILE1, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "E&xit",                       ID_APP_EXIT
+    END
+    POPUP "&View"
+    BEGIN
+        MENUITEM "&Fullscreen\tCtrl+F",         ID_TOGGLE_FULLSCREEN
+        MENUITEM "&Toolbar",                    ID_VIEW_TOOLBAR
+        MENUITEM "&Status Bar",                 ID_VIEW_STATUS_BAR
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About game...",              ID_APP_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS
+BEGIN
+    "F",            ID_TOGGLE_FULLSCREEN,   VIRTKEY, CONTROL, NOINVERT
+    "Q",            ID_FILE_PAUSE,          VIRTKEY, CONTROL, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 218, 79
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About game"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "Game Framework Version 4.8",IDC_STATIC,39,10,119,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2002-2012",IDC_STATIC,39,23,119,8
+    DEFPUSHBUTTON   "OK",IDOK,172,7,39,14,WS_GROUP
+    LTEXT           "Liense: GPL",IDC_STATIC,39,35,119,8
+    PUSHBUTTON      "ReadMe",IDC_README,172,24,39,13,WS_GROUP
+    LTEXT           "Author: Woei-Kae Chen, CSIE Department, NTUT",IDC_STATIC,39,47,159,8
+    LTEXT           "http://www.ntut.edu.tw/~wkchen/game",IDC_STATIC,39,60,159,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "FileDescription", "game MFC Application"
+            VALUE "FileVersion", "1, 0, 0, 1"
+            VALUE "InternalName", "game"
+            VALUE "LegalCopyright", "Copyright (C) 1999"
+            VALUE "OriginalFilename", "game.EXE"
+            VALUE "ProductName", "game Application"
+            VALUE "ProductVersion", "1, 0, 0, 1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 211
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 68
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDP_SOCKETS_INIT_FAILED "Windows sockets initialization failed."
+END
+
+STRINGTABLE
+BEGIN
+    IDR_MAINFRAME           "game\n\nGame\n\n\nGame.Document\nGame Document"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_APP_TITLE       "game"
+    AFX_IDS_IDLEMESSAGE     "Ready"
+END
+
+STRINGTABLE
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE
+BEGIN
+    ID_FILE_NEW             "Create a new document\nNew"
+    ID_FILE_OPEN            "Open an existing document\nOpen"
+    ID_FILE_CLOSE           "Close the active document\nClose"
+    ID_FILE_SAVE            "Save the active document\nSave"
+    ID_FILE_SAVE_AS         "Save the active document with a new name\nSave As"
+    ID_FILE_PAGE_SETUP      "Change the printing options\nPage Setup"
+    ID_FILE_PRINT_SETUP     "Change the printer and printing options\nPrint Setup"
+    ID_FILE_PRINT           "Print the active document\nPrint"
+    ID_FILE_PRINT_PREVIEW   "Display full pages\nPrint Preview"
+END
+
+STRINGTABLE
+BEGIN
+    ID_APP_ABOUT            "Display program information, version number and copyright\nAbout"
+    ID_APP_EXIT             "Quit the application; prompts to save documents\nExit"
+END
+
+STRINGTABLE
+BEGIN
+    ID_FILE_MRU_FILE1       "Open this document"
+    ID_FILE_MRU_FILE2       "Open this document"
+    ID_FILE_MRU_FILE3       "Open this document"
+    ID_FILE_MRU_FILE4       "Open this document"
+    ID_FILE_MRU_FILE5       "Open this document"
+    ID_FILE_MRU_FILE6       "Open this document"
+    ID_FILE_MRU_FILE7       "Open this document"
+    ID_FILE_MRU_FILE8       "Open this document"
+    ID_FILE_MRU_FILE9       "Open this document"
+    ID_FILE_MRU_FILE10      "Open this document"
+    ID_FILE_MRU_FILE11      "Open this document"
+    ID_FILE_MRU_FILE12      "Open this document"
+    ID_FILE_MRU_FILE13      "Open this document"
+    ID_FILE_MRU_FILE14      "Open this document"
+    ID_FILE_MRU_FILE15      "Open this document"
+    ID_FILE_MRU_FILE16      "Open this document"
+END
+
+STRINGTABLE
+BEGIN
+    ID_NEXT_PANE            "Switch to the next window pane\nNext Pane"
+    ID_PREV_PANE            "Switch back to the previous window pane\nPrevious Pane"
+END
+
+STRINGTABLE
+BEGIN
+    ID_WINDOW_SPLIT         "Split the active window into panes\nSplit"
+END
+
+STRINGTABLE
+BEGIN
+    ID_EDIT_CLEAR           "Erase the selection\nErase"
+    ID_EDIT_CLEAR_ALL       "Erase everything\nErase All"
+    ID_EDIT_COPY            "Copy the selection and put it on the Clipboard\nCopy"
+    ID_EDIT_CUT             "Cut the selection and put it on the Clipboard\nCut"
+    ID_EDIT_FIND            "Find the specified text\nFind"
+    ID_EDIT_PASTE           "Insert Clipboard contents\nPaste"
+    ID_EDIT_REPEAT          "Repeat the last action\nRepeat"
+    ID_EDIT_REPLACE         "Replace specific text with different text\nReplace"
+    ID_EDIT_SELECT_ALL      "Select the entire document\nSelect All"
+    ID_EDIT_UNDO            "Undo the last action\nUndo"
+    ID_EDIT_REDO            "Redo the previously undone action\nRedo"
+END
+
+STRINGTABLE
+BEGIN
+    ID_VIEW_TOOLBAR         "Show or hide the toolbar\nToggle ToolBar"
+    ID_VIEW_STATUS_BAR      "Show or hide the status bar\nToggle StatusBar"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_SCSIZE          "Change the window size"
+    AFX_IDS_SCMOVE          "Change the window position"
+    AFX_IDS_SCMINIMIZE      "Reduce the window to an icon"
+    AFX_IDS_SCMAXIMIZE      "Enlarge the window to full size"
+    AFX_IDS_SCNEXTWINDOW    "Switch to the next document window"
+    AFX_IDS_SCPREVWINDOW    "Switch to the previous document window"
+    AFX_IDS_SCCLOSE         "Close the active window and prompts to save the documents"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_SCRESTORE       "Restore the window to normal size"
+    AFX_IDS_SCTASKLIST      "Activate Task List"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_PREVIEW_CLOSE   "Close print preview mode\nCancel Preview"
+END
+
+STRINGTABLE
+BEGIN
+    ID_BUTTON_FULLSCREEN    "Full Screen\nFull Screen"
+    ID_BUTTON_PAUSE         "Pause Game\nPause Game"
+    ID_BUTTON_UNITTEST      "Perform Unit Test"
+END
+
+#endif    // 英文 (美國) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// 英文 (馬來西亞) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENM)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_MALAYSIA
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_FLOOR               BITMAP                  "..\\RES\\floor.bmp"
+
+IDB_WLHOTGIRL1          BITMAP                  "..\\RES\\walkleft1.bmp"
+
+IDB_SLHOTGIRL           BITMAP                  "..\\RES\\hotgirlleft.bmp"
+
+IDB_SRHOTGIRL           BITMAP                  "..\\RES\\hotgirlright.bmp"
+
+IDB_WLHOTGIRL3          BITMAP                  "..\\RES\\walkleft3.bmp"
+
+IDB_WLHOTGIRL4          BITMAP                  "..\\RES\\walkleft4.bmp"
+
+#endif    // 英文 (馬來西亞) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif
+#include "res\game.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#include "afxprint.rc"       // printing/print preview resources
+#endif
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

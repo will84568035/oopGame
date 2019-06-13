@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game", "game.vcxproj", "{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HotGirl", "..\..\..\HotGirl\HotGirl\HotGirl.vdproj", "{443E3D39-5F74-4964-B4BA-3CD73D4833E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Debug|Win32.Build.0 = Debug|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Debug|x64.ActiveCfg = Debug|x64
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Debug|x64.Build.0 = Debug|x64
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Release|Win32.ActiveCfg = Release|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Release|Win32.Build.0 = Release|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Release|x64.ActiveCfg = Debug|Win32
+		{DDD280D7-4B85-4B03-BBC4-C46CA9BECCCB}.Release|x64.Build.0 = Debug|Win32
+		{443E3D39-5F74-4964-B4BA-3CD73D4833E8}.Debug|Win32.ActiveCfg = Debug
+		{443E3D39-5F74-4964-B4BA-3CD73D4833E8}.Debug|x64.ActiveCfg = Debug
+		{443E3D39-5F74-4964-B4BA-3CD73D4833E8}.Release|Win32.ActiveCfg = Release
+		{443E3D39-5F74-4964-B4BA-3CD73D4833E8}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED7E927-62F0-4A2F-849D-EFFEE1C4DBE5}
+	EndGlobalSection
+EndGlobal
